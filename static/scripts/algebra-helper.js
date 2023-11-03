@@ -43,6 +43,13 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
             {
+      name: "C.ai",
+      link: "https://beta.character.ai/",
+      image: "/images/icons/ca.png",
+      categories: ["all", "social", "game", "media", ""],
+      error: false
+    },
+            {
       name: "Himovies, a free movies and show",
       link: "https://himovies.to",
       image: "/images/icons/ILLEGALPIRACY.png",
@@ -64,8 +71,8 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
                         {
-      name: "Favhd i forgot which one this one is, a free something to watch idk 💀",
-      link: "https://favhd.net",
+      name: "ChatGPT clone 30.1",
+      link: "https://you.com",
       image: "/images/icons/ILLEGALPIRACY.png",
       categories: ["all", "social", "game", "media", ""],
       error: false
